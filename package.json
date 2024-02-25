@@ -34,7 +34,7 @@
     "rimraf": "^3.0.2"
   },
   "peerDependencies": {
-    "cypress": ">=5.6.0"
+    "cypress": ">=13.5.0"
   },
   "files": [
     "dist/**/*"
@@ -45,7 +45,7 @@
     "cypress.json"
   ],
   "dependencies": {
-    "canvas": "2.9.0",
+    "canvas": "^2.11.2",
     "pngjs": "^6.0.0",
     "resemblejs": "^4.1.0",
     "sanitize-filename": "^1.6.3"
